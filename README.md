@@ -4,7 +4,7 @@
 
 | Código | Nome | Pontuação |
 | :----- | :--- | :-------- |
-|A03 | Alex Pereira da Silva | 0 |
+| A03 | Alex Pereira da Silva | 0 |
 | A06 | Eberson Nascimento Santos | 50 |
 | P02 | Adônis França Belo | 25 |
 | P04 | Aline Gisela Rocha Libório Tenório | 300 |
@@ -30,6 +30,7 @@
 | P54 | Lucas Dantas Gueiros | 475 |
 | P55 | Lucinaldo Melquíades Júnior | 175 |
 | P62 | Marivaldo Bruno Pereira da Silva | 75 |
+| P64 | Matheus Brandão Tenório de Macedo | 200 |
 | P67 | Nathalia Ruth Silva do Nascimento | 0 |
 | P70 | Pedro Henrique | 50 |
 | P71 | Pedro Souza e Silva | 0 |
@@ -49,5 +50,6 @@ as questões e portanto tiveram pontuação 0 (zero).
 | Aline Gisela Rocha Libório Tenório | Medalha de Prata |
 | Daniel Carneiro Rosa | Medalha de Prata |
 | Gabriel Alves da Rocha | Medalha de Bronze |
+| Matheus Brandão Tenório de Macedo | Medalha de Bronze |
 | João Witor Tenório Cavalcante Santos | Menção Honrosa |
 | Lucinaldo Melquíades Júnior | Menção Honrosa |
