@@ -4,9 +4,11 @@
 JAVAC=$(which javac)
 JAVA=$(which java)
 CC=$(which gcc)
+CPP=$(which g++)
 CMP=$(which cmp)
 PYTHON=$(which python)
 TIMEOUT=$(which timeout)
+
 
 # Configurações
 TEMPO=3s
@@ -47,9 +49,9 @@ avaliacao() {
             if [ -f $questao_atual.java ]; then
                 $JAVAC -encoding ISO-8859-1 $questao_atual.java
             elif [ -f $questao_atual.c ]; then
-                $MAKE $questao_atual
+                $CC $questao_atual.c -o $questao_atual -lm
             elif [ -f $questao_atual.cpp ]; then
-                $MAKE $questao_atual
+                $CPP $questao_atual.cpp -o $questao_atual -lm
             fi
 
             for n in $NIVEIS; do
